@@ -25,7 +25,7 @@ export default {
         fontSize: 20,
         fontFamily: '微软雅黑',
         color: '#FFF',
-        background: '#333',
+        background: '#eee',
         textAlign: 'center',
         textBaseline: 'middle',
         pos: [50, 50]
